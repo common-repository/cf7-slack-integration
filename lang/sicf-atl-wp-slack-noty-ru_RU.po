@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SlackNotyPlugins\n"
+"POT-Creation-Date: 2022-03-23 09:35+0300\n"
+"PO-Revision-Date: 2022-03-23 09:36+0300\n"
+"Last-Translator: \n"
+"Language-Team: atlasComp\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/sicf_slack_databases_api.php:29
+msgid "The specified key already exists (UNIQUE constraint)"
+msgstr "Указанный ключ уже существует (УНИКАЛЬНОЕ ограничение"
+
+#: includes/sicf_slack_main_func.php:46
+msgid "Error send data Slack. Code error - "
+msgstr "Ошибка передачи данных в Slack. Код ошибки - "
+
+#: includes/sicf_slack_main_func.php:107
+msgid "Error add data in databases..."
+msgstr "Ошибка добавления(обновления) данных в базу данных..."
+
+#: includes/sicf_slack_panel_view.php:39
+msgid "Setting integration from Slack"
+msgstr "Настройки интеграции с Slack"
+
+#: includes/sicf_slack_panel_view.php:47
+msgid "Integration"
+msgstr "Интеграция"
+
+#: includes/sicf_slack_panel_view.php:54
+msgid "Set send data in Slack"
+msgstr "Включить передачу данных в Slack"
+
+#: includes/sicf_slack_panel_view.php:62
+msgid "Webhook URL"
+msgstr "Webhook URL"
+
+#: includes/sicf_slack_panel_view.php:77
+msgid "Transformation header in message from Slack"
+msgstr "Преобразование заголовков в сообщении"
+
+#: includes/sicf_slack_panel_view.php:81
+msgid ""
+"To set the message headers in slack, the following record format is used: "
+"header--name."
+msgstr ""
+"Установка заголовков для Slack сообщений, пример формата ввода: {header--"
+"name}"
+
+#: includes/sicf_slack_panel_view.php:82
+msgid "Example {site = Site name}"
+msgstr "Пример {site = Site name}"
+
+#: wp-atl-slack-notify.php:37
+msgid "Integrate Slack with Contact Form 7"
+msgstr "Интеграция Contact Form 7 с месседжером Slack"
+
+#: wp-atl-slack-notify.php:38
+msgid "Creating plugin for slack messages from Contact Form 7"
+msgstr "Плагин для оповещения из Contact Form 7 в месседжер Slack"
+
+#: wp-atl-slack-notify.php:55
+msgid ""
+"For the Slack integration Contact form 7 plugin to work, you need to install "
+"the Contact Form 7 plugin"
+msgstr ""
+"Для работы плагина Slack integration Contact form 7 необходимо установить "
+"плагин Contact Form 7"
+
+#: wp-atl-slack-notify.php:57
+msgid "Activate plugin Contact Form 7, please.."
+msgstr "Включите плагин Contact Form 7, пожалуйста.."
